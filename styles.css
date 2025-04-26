@@ -140,3 +140,14 @@ ol{
         text-align: start;
     }
 }
+@media (min-width: 376px) and (max-width: 600px){
+    .carbs{
+        padding-right: 0.3rem;
+    }
+    .fat{
+        padding-left: 5.5rem;
+    }
+    .protein{
+        padding-right: 0.5rem;
+    }
+}
