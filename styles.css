@@ -120,7 +120,7 @@ ol{
     font-weight: bolder;
 }
 /*--------MEDIA QURIES---------*/
-@media (max-width: 375px){
+@media (max-width: 376px){
     #main_box{
         margin:0;
         padding: 0;
